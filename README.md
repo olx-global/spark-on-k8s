@@ -1,3 +1,5 @@
+# NOTE: this repo has been moved to https://github.com/olxgroup-oss/spark-on-k8s. Please update your bookmarks accordingly.
+
 # Spark on K8s
 
 ## Objective
